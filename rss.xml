@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[ZinPhotos]]></title>
         <description><![CDATA[ZinPhotos]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/zinphotos/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 01 Jan 2016 19:47:33 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 01 Jan 2016 19:51:19 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/zinphotos/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Winter in Tallinn]]></title>
+            <description><![CDATA[<article><h1>Winter in Tallinn</h1><p>icy early afternoon in Tallinn, Estonia</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/32d08c087056c7a2a8051e5891b15b62c2fcb3f7.jpg"></article>]]></description>
+            <link>https://thegrid.ai/zinphotos/winter-in-tallinn/index.html</link>
+            <guid isPermaLink="false">84d6e6b9-fca0-435b-b921-c54cda2bd02f</guid>
+            <pubDate>Fri, 01 Jan 2016 19:51:02 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Winter in Kyrgyzstan]]></title>
             <description><![CDATA[<article><h1>Winter in Kyrgyzstan</h1><p>Silent winter scene near Bishkek, Kyrgyzstan</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6a6c520f4417741a4754d6763d9bf013b07adc87.jpg"></article>]]></description>
-            <link>undefinedwinter-in-kyrgyzstan/index.html</link>
+            <link>https://thegrid.ai/zinphotos/winter-in-kyrgyzstan/index.html</link>
             <guid isPermaLink="false">08071144-a557-46e3-b77d-bcd6350f2c85</guid>
             <pubDate>Fri, 01 Jan 2016 19:47:23 GMT</pubDate>
         </item>
