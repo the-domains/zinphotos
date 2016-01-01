@@ -22,7 +22,7 @@ color:
     - '#1f2120'
     - '#57585c'
   brandStrength: 0
-  lightness: 0.4375
+  lightness: 0.375
   saturation: 0
-  rhythmicContrast: 0.9177417505998164
+  rhythmicContrast: 0
 purpose: []
